@@ -5,3 +5,14 @@ html {
 body {
     background: #BDBDBD;
 }
+
+
+/* Styling for services.html */
+#img-services {
+    border-radius: 75%;
+}
+
+#service-bg {
+    background-color: white;
+}
+/*---------------------------*/
