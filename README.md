@@ -15,7 +15,7 @@ Each student works on a different file, for a different part of the website, and
 ```bash
 $ npx http-server --yes -c-1
 ```
-
+<!-- what up -->
 + You will be given an option to open in browser, and have options to view the new site, what it should look like, and a reference to each part of the page. If you receive an error, wait a moment and refresh.
 
 4. To start, each member should put their name in the file they have been assigned, `push` back to the repository, and `pull` to see the others changes. Maintaining clear communication about the files being used will make the project run smooth 🙂
